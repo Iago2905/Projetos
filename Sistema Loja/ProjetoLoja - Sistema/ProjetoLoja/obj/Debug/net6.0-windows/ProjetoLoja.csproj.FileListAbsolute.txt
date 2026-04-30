@@ -1,0 +1,204 @@
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CopyComplete
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoL.69F05880.Up2Date
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoL.69F05880.Up2Date
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\iago.drodrigues\source\repos\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoL.69F05880.Up2Date
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+T:\Publica\1-PROGRAMADOR SISTEMAS 2025\Projetos Iago\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoL.69F05880.Up2Date
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\iago.drodrigues\source\repos\ProjetoLoja\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CopyComplete
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.exe
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll.config
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.deps.json
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.runtimeconfig.json
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroCliente.resources
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroItemVenda.resources
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroProduto.resources
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.CadastroVendas.resources
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.PrincipalForms.resources
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.GenerateResource.cache
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.AssemblyInfo.cs
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoL.69F05880.Up2Date
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\refint\ProjetoLoja.dll
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.pdb
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.genruntimeconfig.cache
+C:\Users\User\Documents\Iago\VisualStudio\ProjetoLoja\obj\Debug\net6.0-windows\ref\ProjetoLoja.dll
+C:\Users\Alunos\Documents\Projetos Iago\ProjetoLoja\obj\Debug\net6.0-windows\ProjetoLoja.Properties.Resources.resources
